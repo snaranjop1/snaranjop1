@@ -1,4 +1,5 @@
-[![Header](https://github.com/snaranjop1/snaranjop1/blob/main/LinkedIn%20Banner.png)](https://snaranjop1.github.io/)
+[![Header](https://user-images.githubusercontent.com/33071623/124503782-db0a2580-dd8b-11eb-8247-f81cccacb540.png)
+](https://snaranjop1.github.io/)
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
