@@ -1,17 +1,20 @@
-[![Header](https://user-images.githubusercontent.com/33071623/124503782-db0a2580-dd8b-11eb-8247-f81cccacb540.png)
+[![Header](https://user-images.githubusercontent.com/33071623/131445826-1f7ffe5b-a360-4a09-88ef-1c25952abe6f.png)
 ](https://snaranjop1.github.io/)
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sergio Naranjo and I'm a Full-Stack Developer. I'm from Colombia, living in Bogotá and currently working independelty. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Sergio Naranjo and I'm a Software Engineer. I'm from Colombia, living in Bogotá and currently working at Appspring Technologies. You can find me on [![Twitter][1.2]][1],  or [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FAA307)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=linux&logoColor=white&color=FAA307)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=FAA307)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=FAA307)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FAA307)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=FAA307)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=FAA307)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=FAA307)
+![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=FAA307)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=FAA307)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FAA307)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=FAA307)
