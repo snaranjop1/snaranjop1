@@ -32,11 +32,11 @@ My name is Sergio Naranjo and I'm a Software Engineer. I'm from Colombia, living
 </a>
 
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snaranjop1&repo=roomies&title_color=ffffff&text_color=c9cacc&icon_color=FAA307&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snaranjop1&repo=storeforce&title_color=ffffff&text_color=c9cacc&icon_color=FAA307&bg_color=1d1f21" />
 </a>    
 
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snaranjop1&repo=pieceofadvice&title_color=ffffff&text_color=c9cacc&icon_color=FAA307&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snaranjop1&repo=findipy&title_color=ffffff&text_color=c9cacc&icon_color=FAA307&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
