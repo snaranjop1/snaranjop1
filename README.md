@@ -3,50 +3,53 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sergio Naranjo and I'm a Software Engineer. I'm from Colombia, living in Bogotá and currently working at Appspring Technologies. You can find me on [![Twitter][1.2]][1],  or [![LinkedIn][3.2]][3].
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=linux&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Tools-Sass-informational?style=flat&logo=sass&logoColor=white&color=FAA307)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=FAA307)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/snaranjop1/snaranjop1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaranjop1&langs_count=3,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/snaranjop1/snaranjop1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snaranjop1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FAA307&bg_color=1d1f21" alt="Sergio's GitHub Stats" />
-</a>
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-<!-- links to your social media accounts -->
+## 🚀 Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-[1]: https://twitter.com/snaranjop1
-[2]: https://github.com/snaranjop1
-[3]: https://www.linkedin.com/in/sergio-naranjo-puentes-78a457176/?locale=en_US
+
+
+I’m a Software Engineer from Colombia. I'm currently finishing a master in high performance web programming at Barcelona. Furthermore, I like to build top quality software, beautiful UI’s and enhancing experiences.
+
+- 🔭 I’m currently working on [StpidBits](https://snaranjop1.github.io/)
+
+- 🌱 I’m currently learning **Nextjs**
+
+- 👨‍💻 All of my projects are available at [https://snaranjop1.github.io/](https://snaranjop1.github.io/)
+
+- 💬 Ask me about **React, javascript, css, html**
+
+- 📫 How to reach me **sergionaranjopuentes@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rJLfT9BpraVOwCzYMaIol3JhtDJ1EOH7/view](https://drive.google.com/file/d/1rJLfT9BpraVOwCzYMaIol3JhtDJ1EOH7/view)
+
+
+## 🌎 Socials
+<p align="left">
+  <a href="https://twitter.com/naranhack" target="blank"><img src="https://img.shields.io/twitter/follow/naranhack?logo=twitter&style=for-the-badge" alt="naranhack" /></a>
+</p>
+<p align="left">
+  <a href="https://linkedin.com/in/sergio-naranjo-puentes-78a457176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-naranjo-puentes-78a457176/" height="30" width="40" /></a>
+</p>
+
+
+## ⚡️ GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=snaranjop1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=snaranjop1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+### 😂 Little dev meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
