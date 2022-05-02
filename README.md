@@ -21,8 +21,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-I’m a Software Engineer from Colombia. I'm currently finishing a master in high performance web programming at Barcelona. Furthermore, I like to build top quality software, beautiful UI’s and enhancing experiences.
+I’m a Software Engineer from Colombia. I'm currently finishing a master in high performance web programming at Barcelona. I like to build top quality software, beautiful UI’s and enhancing experiences.
 
 - 🔭 I’m currently working on [StpidBits](https://snaranjop1.github.io/)
 
