@@ -1,10 +1,6 @@
 [![Header](https://user-images.githubusercontent.com/33071623/131445826-1f7ffe5b-a360-4a09-88ef-1c25952abe6f.png)
 ](https://snaranjop1.github.io/)
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-
 ## 🚀 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
