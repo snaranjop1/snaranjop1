@@ -1,9 +1,9 @@
 <code>Well, well, well, look who's here! How have you been?</code>
 # I'm Sergio Naranjo 🍊
 
-<img align="right" src="https://user-images.githubusercontent.com/33071623/220186964-da7be1f9-9d83-40a3-be6b-d68563b8582a.gif" width="40%"/>
+## I’m a Software Engineer from Colombia. I like to build top quality software, beautiful UI’s and enhancing experiences.
 
-<div align="left">
+<div>
   <h2> 🚀 Tech Stack </h2>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -21,8 +21,7 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-
-## I’m a Software Engineer from Colombia. I like to build top quality software, beautiful UI’s and enhancing experiences.
+<img align="right" src="https://user-images.githubusercontent.com/33071623/220186964-da7be1f9-9d83-40a3-be6b-d68563b8582a.gif" width="40%"/>
 
 - 🔭 I’m currently working on [StpidBits](https://snaranjop1.github.io/)
 
