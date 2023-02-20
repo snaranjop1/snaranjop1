@@ -39,12 +39,3 @@ I’m a Software Engineer from Colombia. I like to build top quality software, b
 <p align="left">
   <a href="https://linkedin.com/in/sergio-naranjo-puentes-78a457176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-naranjo-puentes-78a457176/" height="30" width="40" /></a>
 </p>
-
-
-## ⚡️ GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=snaranjop1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snaranjop1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 😂 Little dev meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
