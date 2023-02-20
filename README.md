@@ -1,7 +1,7 @@
 <code>Well, well, well, look who's here! How have you been?</code>
 # I'm Sergio Naranjo 🍊
 
-## I’m a Software Engineer from Colombia. I like to build top quality software, beautiful UI’s and enhancing experiences.
+## Software Engineer from Colombia. I like to build top quality software, beautiful UI’s and enhancing experiences.
 
 <div>
   <h2> 🚀 Tech Stack </h2>
