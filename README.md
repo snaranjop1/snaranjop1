@@ -1,10 +1,13 @@
-[![Header](https://user-images.githubusercontent.com/33071623/131445826-1f7ffe5b-a360-4a09-88ef-1c25952abe6f.png)
-](https://snaranjop1.github.io/)
+<code>Well, well, well, look who's here! How have you been?</code>
+# I'm Sergio Naranjo 🍊
+
+<img align="center" src="https://user-images.githubusercontent.com/33071623/220186964-da7be1f9-9d83-40a3-be6b-d68563b8582a.gif" width="100%"/>
 
 ## 🚀 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Next](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
@@ -30,12 +33,3 @@ I’m a Software Engineer from Colombia. I like to build top quality software, b
 - 📫 How to reach me **sergionaranjopuentes@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rJLfT9BpraVOwCzYMaIol3JhtDJ1EOH7/view](https://drive.google.com/file/d/1rJLfT9BpraVOwCzYMaIol3JhtDJ1EOH7/view)
-
-
-## 🌎 Socials
-<p align="left">
-  <a href="https://twitter.com/naranhack" target="blank"><img src="https://img.shields.io/twitter/follow/naranhack?logo=twitter&style=for-the-badge" alt="naranhack" /></a>
-</p>
-<p align="left">
-  <a href="https://linkedin.com/in/sergio-naranjo-puentes-78a457176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-naranjo-puentes-78a457176/" height="30" width="40" /></a>
-</p>
