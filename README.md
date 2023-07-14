@@ -1,7 +1,7 @@
 <code>Well, well, well, look who's here! How have you been?</code>
 # I'm Sergio Naranjo 🍊
 
-I like to build top quality software, beautiful UI’s and cool digital experiences. I'm a software developer with 3 years of experience in developing web applications and solutions. My deep knowledge of HTML/CSS/JavaScript, software architecture, and best practices has allowed me to work on projects for companies of all sizes and collaborate with teams from all over the world.
+I like to build top quality software, beautiful UI’s and cool digital experiences. I'm a software developer with 4 years of experience in developing web applications and solutions. My deep knowledge of HTML/CSS/JavaScript, software architecture, and best practices has allowed me to work on projects for companies of all sizes and collaborate with teams from all over the world.
 
 I consider myself a curious and passionate person about continuous learning. I love staying up to date with the latest trends and technologies in the web development world and am always seeking new challenges and opportunities to improve my skills.
 
