@@ -21,13 +21,13 @@ I consider myself a curious and passionate person about continuous learning. I l
 
 <img align="right" src="https://user-images.githubusercontent.com/33071623/220186964-da7be1f9-9d83-40a3-be6b-d68563b8582a.gif" width="40%"/>
 
-- 🔭 I’m currently working on [NoBank](https://snaranjop1.github.io/)
+- 🔭 I’m currently working on [Ordenao](https://snaranjop1.github.io/)
 
 - 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://snaranjop1.github.io/](https://snaranjop1.github.io/)
 
-- 💬 Ask me about **React, Javascript, CSS, HTML**
+- 💬 Ask me about **Frontend, React, Javascript, CSS, HTML**
 
 - 📫 How to reach me **sergionaranjopuentes@gmail.com**
 
