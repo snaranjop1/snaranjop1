@@ -1,7 +1,7 @@
 <code>Well, well, well, look who's here! How have you been?</code>
 # I'm Sergio Naranjo 🍊
 
-I like to build top quality software, beautiful UI’s and cool digital experiences. I'm a software developer with 4 years of experience in developing web applications and solutions. My deep knowledge of HTML/CSS/JavaScript, software architecture, and best practices has allowed me to work on projects for companies of all sizes and collaborate with teams from all over the world.
+I like to build top quality software, beautiful UI’s and cool digital experiences. I'm a software developer with over 4 years of experience in developing web applications and solutions. My deep knowledge of HTML/CSS/JavaScript, software architecture, and best practices has allowed me to work on projects for companies of all sizes and collaborate with teams from all over the world.
 
 I consider myself a curious and passionate person about continuous learning. I love staying up to date with the latest trends and technologies in the web development world and am always seeking new challenges and opportunities to improve my skills.
 
@@ -15,8 +15,6 @@ I consider myself a curious and passionate person about continuous learning. I l
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwind-%2300A5E9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
 <img align="right" src="https://user-images.githubusercontent.com/33071623/220186964-da7be1f9-9d83-40a3-be6b-d68563b8582a.gif" width="40%"/>
