@@ -1,7 +1,7 @@
 <code>Hey there! 👋</code>
 # I'm Sergio Naranjo 🍊
 
-a senior frontend developer who loves building high-quality software, beautiful UIs, and great digital experiences. I specialize in React but also do backend work when needed with Node.js or Ruby on Rails.
+Senior Frontend Developer who loves building high-quality software, beautiful UIs, and great digital experiences. I specialize in React but also do backend work when needed with Node.js or Ruby on Rails.
 
 I’m always curious and love learning new things. My goal is to build software that not only works well but also feels great to use.
 
