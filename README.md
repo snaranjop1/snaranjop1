@@ -26,4 +26,4 @@ Thanks for stopping by—let’s build something cool! 🚀
 
 - 📫 How to reach me **sergionaranjopuentes@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rJLfT9BpraVOwCzYMaIol3JhtDJ1EOH7/view](https://drive.google.com/file/d/1rJLfT9BpraVOwCzYMaIol3JhtDJ1EOH7/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1rJLfT9BpraVOwCzYMaIol3JhtDJ1EOH7/view)
