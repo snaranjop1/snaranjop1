@@ -20,7 +20,7 @@ Thanks for stopping by—let’s build something cool! 🚀
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at https://www.narahack.dev/
+- 👨‍💻 All of my projects are available at https://www.naranhack.dev/
 
 - 💬 Ask me about **Frontend, React, Javascript, CSS, HTML**
 
